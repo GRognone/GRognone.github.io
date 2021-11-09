@@ -35,17 +35,11 @@ img{
 
         background-color: blueviolet;
     }
-    .jean-louis{
-        background-color: crimson;
-        position: center;
-        margin-left: 120px;
-        width: auto;
-        display: inline-block;
-    }
-
-    .jean-louis p{
-        display: block;
-    }
+    
+ .competence{
+     display: inline-block;    
+    vertical-align:top;
+ }
 
     
     
