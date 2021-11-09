@@ -2,7 +2,7 @@ HEAD
 P {color :blueviolet
 }
 h1 {font-size :100pixel }
-=======
+
 body{
     color:#FFFFFF;
     background-color:#22577a;
@@ -29,7 +29,22 @@ img{
     margin-left: 50px;        
     border-radius: 20%;
     padding: 0px;
+}
      
+    .toto{
+
+        background-color: blueviolet;
+    }
+    .jean-louis{
+        background-color: crimson;
+        position: center;
+        margin-left: 120px;
+        width: auto;
+        display: inline-block;
+    }
+
+    .jean-louis p{
+        display: block;
     }
 
     
